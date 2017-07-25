@@ -1,0 +1,22 @@
+This program in implement python 3.6. please make sure python 3.6
+is installed in your computer.
+------------------------------------------------------------------
+This program depend on several external Python library
+* numpy
+* scipy
+* matplotlib
+make sure you have already install this library in python.
+to install these library
+just type: " pip3 install numpy,scipy,matpoltlib " in the terminal
+---------------------------------------------------------------------
+Synthetic data and real word data are store in data dictionary
+Parallel.py contain the helper function to make code run in parallel
+Test1.py is testing for Synthetic data
+Test2.py is testing for realword data
+userinfluence.py contain the main implementation of user influence estimation
+---------------------------------------------------------------------
+Following steps to run this code:
+* change to current dictionary
+*to run test on synthetic data : python3 Test1.py
+*to run test on real word data : python3 Test2.py
+-----------------------------------------------------------------------
